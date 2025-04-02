@@ -1,6 +1,6 @@
 # MCProject
 
-MC Project. Team name: Echipa
+Project made in a team of 4 as part of Transilvania Univeresity's Modern C++ course
 
 # MonkeyBusyness (also known as Monkey Madness)  
 
