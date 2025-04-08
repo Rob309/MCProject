@@ -26,22 +26,6 @@ The goal is to be the last monkey standing! Players must use their agility, spec
 - **WebSockets (ixwebsocket)** – Enables real-time multiplayer gameplay.  
 - **Crow & CPR Libraries** – Used for handling HTTP requests and networking. 
 
-## 🚀 How to Play  
-1. Select your monkey and special ability.  
-2. Move through the arena, avoiding attacks and finding the best angles to strike.  
-3. Use your bananas wisely to eliminate enemies.  
-4. Take advantage of the environment for cover and strategic plays.  
-5. The last monkey remaining wins the round!  
-
-## 🛠️ Future Improvements  
-- **A dedicated interface for choosing monkeys**, as the selection is currently random.  
-- **A replay system** to review and analyze past matches.  
-- **New monkeys with unique abilities** to add variety and strategy.  
-- **New weapons with special powers** to enhance gameplay.  
-- **New game modes** such as *Single Player* and *Team Battles* for a richer experience.  
-
-Are you ready to embrace the madness and prove you're the ultimate monkey warrior? 🍌🐵  
-
 ## ⚙️ Setting Up Dependencies
 
 This is the handout for setting up dependencies.
