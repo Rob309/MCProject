@@ -137,5 +137,8 @@ DEBUG:
 - Add the library directory for Vector2 DLL :
   Property > Configuration Properties > VC++ Directories > Library Directories > C:\Computers\MCProject\TheMonkeyBusyness\x64\Debug
 
+
+  #Please use ipconfig command in cmd and put http://yourIpAdressGoesHere:8080 in  MCProjectMonkeyBusyness\TheMonkeyBusyness\TheMonkeyBusynessVisual\config.txt for local pvp on multiple devices
+
 ## 🎬▶️  Video Project
   Video Project: [https://youtu.be/u4TCsvCAms](https://youtu.be/u4TCsvCAmss)
